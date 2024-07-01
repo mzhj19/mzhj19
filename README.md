@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin,&theme=light&perline=9" />
 </a> -->
 <!-- <a href="https://github.com/ShadmanShariar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello 👋🏻 This is Shadman Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello 👋🏻 This is Md. Zahid Hasan Jamil;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
 </a> -->
 
 <h2 align="left">My Competitive Programming Profiles</h2>
@@ -42,4 +42,4 @@
   </picture>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mzhj19&bg_color=ffffff&color=0074B7&line=0074B7&point=000000&area=true&hide_border=true)](https://github.com/mzhj19/github-readme-activity-graph)
+[![Zahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mzhj19&bg_color=ffffff&color=0074B7&line=0074B7&point=000000&area=true&hide_border=true)](https://github.com/mzhj19/github-readme-activity-graph)
